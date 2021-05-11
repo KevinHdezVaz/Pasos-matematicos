@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/mathsteps-website/precache-manifest.9b5a8a727296b151980f549bbcfa045b.js"
+  "/Pasos-matematicos/precache-manifest.9b9591a863858d0f5e6b451fcf1ece9a.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/mathsteps-website/index.html", {
+workbox.routing.registerNavigationRoute("/Pasos-matematicos/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });

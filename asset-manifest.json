@@ -1,13 +1,13 @@
 {
-  "main.css": "/mathsteps-website/static/css/main.baadfeeb.chunk.css",
-  "main.js": "/mathsteps-website/static/js/main.0fb5fb38.chunk.js",
-  "main.js.map": "/mathsteps-website/static/js/main.0fb5fb38.chunk.js.map",
-  "runtime~main.js": "/mathsteps-website/static/js/runtime~main.9e653431.js",
-  "runtime~main.js.map": "/mathsteps-website/static/js/runtime~main.9e653431.js.map",
-  "static/js/2.e10de484.chunk.js": "/mathsteps-website/static/js/2.e10de484.chunk.js",
-  "static/js/2.e10de484.chunk.js.map": "/mathsteps-website/static/js/2.e10de484.chunk.js.map",
-  "index.html": "/mathsteps-website/index.html",
-  "precache-manifest.9b5a8a727296b151980f549bbcfa045b.js": "/mathsteps-website/precache-manifest.9b5a8a727296b151980f549bbcfa045b.js",
-  "service-worker.js": "/mathsteps-website/service-worker.js",
-  "static/css/main.baadfeeb.chunk.css.map": "/mathsteps-website/static/css/main.baadfeeb.chunk.css.map"
+  "main.css": "/Pasos-matematicos/static/css/main.baadfeeb.chunk.css",
+  "main.js": "/Pasos-matematicos/static/js/main.5839c6a2.chunk.js",
+  "main.js.map": "/Pasos-matematicos/static/js/main.5839c6a2.chunk.js.map",
+  "runtime~main.js": "/Pasos-matematicos/static/js/runtime~main.92708e67.js",
+  "runtime~main.js.map": "/Pasos-matematicos/static/js/runtime~main.92708e67.js.map",
+  "static/js/2.83feee8d.chunk.js": "/Pasos-matematicos/static/js/2.83feee8d.chunk.js",
+  "static/js/2.83feee8d.chunk.js.map": "/Pasos-matematicos/static/js/2.83feee8d.chunk.js.map",
+  "index.html": "/Pasos-matematicos/index.html",
+  "precache-manifest.9b9591a863858d0f5e6b451fcf1ece9a.js": "/Pasos-matematicos/precache-manifest.9b9591a863858d0f5e6b451fcf1ece9a.js",
+  "service-worker.js": "/Pasos-matematicos/service-worker.js",
+  "static/css/main.baadfeeb.chunk.css.map": "/Pasos-matematicos/static/css/main.baadfeeb.chunk.css.map"
 }
