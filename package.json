@@ -21,7 +21,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://evykassirer.github.io/mathsteps-website",
+  "homepage": "https://kevinhdezvaz.github.io/Pasos-matematicos/",
   "browserslist": [
     ">0.2%",
     "not dead",
