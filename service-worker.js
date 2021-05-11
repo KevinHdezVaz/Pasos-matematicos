@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Pasos-matematicos/precache-manifest.9b9591a863858d0f5e6b451fcf1ece9a.js"
+  "/Pasos-matematicos/precache-manifest.6b8cb99f3a54da15b41cf27d8c764edb.js"
 );
 
 workbox.clientsClaim();
