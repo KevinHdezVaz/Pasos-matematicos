@@ -1,0 +1,36 @@
+.steps {
+  align-self: center;
+  margin-top: 10px;
+}
+
+.step {
+  align-self: center;
+ }
+
+.substeps {
+  align-self: center;
+   
+}
+
+.error {
+  align-self: center;
+  margin-top: 20px;
+   
+}
+
+.toggleSubsteps {
+  cursor: pointer;
+  user-select: none;
+  color: #072f5c;
+  
+}
+
+.latex {
+  padding: 7px 0;
+}
+
+.changeDescription {
+  color: #2196f3;
+  
+  padding: 5px 0;
+}

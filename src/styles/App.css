@@ -1,0 +1,57 @@
+div {
+  display: flex;
+  flex-direction: column;
+}
+
+.App {
+  background-color: white;
+  min-height: 100vh;
+}
+
+.App-logo {
+  height: 80px;
+}
+
+.App-header {
+  align-items: center;
+  background-color: #2196f3;
+  padding: 20px;
+  color: white;
+}
+
+.urls {
+  flex-direction: row;
+}
+
+.source-code-url {
+  color: #1d84ff;
+  text-decoration: none;
+  padding: 0 20px;
+}
+
+.source-code-url:hover {
+  color: #3BB9FF;
+}
+
+.socratic {
+  align-self: center;
+  text-decoration: none;
+  color: black;
+  margin-top: auto;
+  margin-bottom: 15px;
+}
+
+.socratic:hover {
+  color: #1d84ff;
+}
+@media only screen and (max-width: 480px) {
+
+
+  .App-header {
+    align-items: center;
+ 
+    background-color: #2196f3;
+     color: white;
+  }
+  
+  }
